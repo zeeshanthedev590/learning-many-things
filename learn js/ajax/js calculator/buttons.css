@@ -1,0 +1,17 @@
+input{
+    font-size: 34px;
+}
+button{
+    font-size: 40px;
+    background-color:lightskyblue;
+    width: 102px;
+    height: 90px;
+    box-shadow:10px 10px 10px 10px rgba(49, 174, 231, 0.801);
+}
+button:hover{
+    background-color:rgb(27, 236, 37);
+    box-shadow:10px 10px 10px 10px rgb(25, 235, 6);
+}
+table{
+    margin: auto;
+}

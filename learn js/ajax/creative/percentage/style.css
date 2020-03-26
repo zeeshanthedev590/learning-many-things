@@ -1,0 +1,36 @@
+#btn{
+    padding-top: 109px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow:10px 10px 10px  black;
+    
+}
+#btn:hover{
+    background-color: black; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow:10px 10px 10px  #4CAF50;
+    
+}
+h1{
+    color: rgb(86, 86, 221);
+    box-shadow:10px 10px 10px 10px rgb(86, 86, 221);
+}
+h1:hover{
+    color: rgb(53, 233, 62);
+    box-shadow:10px 10px 10px 10px rgb(53, 233, 62);
+}
+#text{
+    border
+}

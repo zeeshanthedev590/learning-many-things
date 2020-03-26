@@ -1,0 +1,26 @@
+
+    #btn{
+        color: white;
+        padding: 10px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        box-shadow:10px 10px 10px  black;
+        
+    }
+    /* #btn:hover {
+        background-color: black;
+        color: whitesmoke;
+        box-shadow:10px 10px 10px  green; 
+     } */
+ h1{
+     color: rgb(77, 77, 212) ;
+     box-shadow:10px 10px 10px 10px rgb(77, 77, 212);
+     
+ }
+ h1:hover{
+    color: rgb(76, 212, 76) ;
+    box-shadow:10px 10px 10px 10px rgb(76, 212, 76);
+    
+}
